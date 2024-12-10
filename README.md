@@ -67,17 +67,6 @@ The paper *[Memorizing Transformers](https://openreview.net/forum?id=TrjbxzRcnf-
 
 ---
 
-## Important Questions
-
-- **Does the approach outperform other models for long-range datasets?**  
-  Comparison with other long-range models (like Linformer, Longformer) is necessary to assess the advantage.
-  
-- **How does the KNN memory compare to simply expanding the context window?**  
-  Does this approach provide better accuracy or computational efficiency?
-
-- **How does the model perform on tasks with "regular" length documents?**  
-  How does the performance compare to standard transformer models on typical NLP tasks?
-
 ### Example Usage
 
 ```python
