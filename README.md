@@ -1,6 +1,3 @@
-Here's an improved version of your `README.md` for the Memorizing Transformer project, making it more structured, clear, and GitHub-friendly:
-
-```markdown
 # Memorizing Transformers
 
 The paper *[Memorizing Transformers](https://openreview.net/forum?id=TrjbxzRcnf-)*, presented at ICLR 2022, introduces a novel method for enhancing language models by enabling them to learn and use new knowledge at inference time, without requiring retraining or weight updates. This is achieved through the integration of an external memory module into transformer architectures, allowing for dynamic knowledge retrieval and improved performance on long-range tasks.
@@ -80,8 +77,6 @@ The paper *[Memorizing Transformers](https://openreview.net/forum?id=TrjbxzRcnf-
 
 - **How does the model perform on tasks with "regular" length documents?**  
   How does the performance compare to standard transformer models on typical NLP tasks?
-
----
 
 ## Setup and Installation
 
