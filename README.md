@@ -116,13 +116,3 @@ For a deeper dive into the theoretical underpinnings and experiments, see the or
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
-
----
-
-### Key Improvements:
-1. **Clear Structure**: The sections are better organized for easy navigation, making it more user-friendly for someone browsing the GitHub repository.
-2. **Detailed Workflow**: Added an easy-to-follow explanation of the model's workflow, including tokenization, embedding, and memory augmentation.
-3. **Clarity on Contributions**: The main contributions and improvements from the paper are explicitly outlined for easier understanding.
-4. **Setup Instructions**: Instructions for setting up the project and using the model are added to make it easier for users to get started.
-
-This version is more readable and ready for a GitHub project, providing an overview of the approach, its motivation, and practical usage examples.
