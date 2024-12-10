@@ -78,16 +78,6 @@ The paper *[Memorizing Transformers](https://openreview.net/forum?id=TrjbxzRcnf-
 - **How does the model perform on tasks with "regular" length documents?**  
   How does the performance compare to standard transformer models on typical NLP tasks?
 
-## Setup and Installation
-
-Clone the repository and install the required dependencies:
-
-```bash
-git clone https://github.com/your-username/memorizing-transformers.git
-cd memorizing-transformers
-pip install -r requirements.txt
-```
-
 ### Example Usage
 
 ```python
